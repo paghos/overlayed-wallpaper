@@ -20,6 +20,6 @@ Execute the script with the command:
 ![SampleOverlayWallpaper](https://github.com/paghos/overlayed-wallpaper/assets/74596429/f1355f14-099e-4e32-a62e-f8166e365a23)
 
 ## Sample of the result
-Copyright of the background image - [()[Tom Verdoot]](https://www.pexels.com/it-it/@tomverdoot/)https://www.pexels.com/it-it/@tomverdoot/)
+Copyright of the background image - [Tom Verdoot](https://www.pexels.com/it-it/@tomverdoot/)
 
 ![result](https://github.com/paghos/overlayed-wallpaper/assets/74596429/0c377afc-9a89-46b7-b573-df4ead8247b1)
