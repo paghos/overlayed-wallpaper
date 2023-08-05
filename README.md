@@ -12,6 +12,7 @@ Customize the following rows of the script by using your source/destination fold
     overlay_image_path = r"C:\Users\AnotherOneBitesTheDust\Desktop\Wallpaper\OverlayWallpaper.png"
     output_directory = r"C:\Users\AnotherOneBitesTheDust\Desktop\Wallpaper\ImgOut"
 
-Execute the script with the command
+Execute the script with the command:
+
     python3 ./script.py
 
