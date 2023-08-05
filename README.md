@@ -17,6 +17,8 @@ Execute the script with the command:
     python3 ./script.py
     
 ## Sample of OverlayWallpaper file
+With transpearent background
+
 ![SampleOverlayWallpaper](https://github.com/paghos/overlayed-wallpaper/assets/74596429/f1355f14-099e-4e32-a62e-f8166e365a23)
 
 ## Sample of the result
